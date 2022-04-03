@@ -1,0 +1,33 @@
+.head{
+    background-color: skyblue;
+    color: white;
+    height: 100px;
+    
+}
+.head h1{
+    font-size: 60px;;
+    font-style: italic;
+    margin-left: 30%;
+}
+.left{
+    width: 60%;
+}
+.nav a{
+    font-size: 20px;
+    color:black;
+}
+ .right{
+    margin-top: 10%;
+} 
+.foot{
+    background-color: gray;
+}
+.footer{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.leftbox img{
+    margin-top: 5%;
+    height: 230px;
+    margin-bottom: 5%;
+}
